@@ -15,13 +15,13 @@ comments: false
 * Atividade repetitiva? > Então automatize
 * Gestão de Tempo > Santo Google Calendar + Any.Do
 * Criatividade e Inovação > Vai lendo o resto que vai te confirmar tudo
+
 <center> Para informações mais tradicionais, só visitar meu  <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
+
 
 ##Livros que me inspiram
 * Em breve...
 
+
 ## Vida Pessoal
 * Nope.
-
-##Vicio do Momento
-[LOFI](https://www.youtube.com/watch?v=hHW1oY26kxQ){: .btn}
