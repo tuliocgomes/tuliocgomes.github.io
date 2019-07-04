@@ -1,37 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre
+tags: [about, creator, tuliocgomes, sobre]
+date: 2019-07-03
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center> Apaixonado por tecnologia, o melhor suco de limão da região e dentro do possivel tornando meus pequenos projetos em realidade.</center>
 
-## Preview
+## Softskills
+* Melhor suco de limão > só pra reforçar
+* Ética no trabalho > infosec sem ética = treta
+* Comunicação eficaz > mandar email nao custa nada
+* Atividade repetitiva? > Então automatize
+* Gestão de Tempo > Santo Google Calendar + Any.Do
+* Criatividade e Inovação > Vai lendo o resto que vai te confirmar tudo
+<center> Para informações mais tradicionais, só visitar meu  <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+##Livros que me inspiram
+* Em breve...
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Vida Pessoal
+* Nope.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+##Vicio do Momento
+[LOFI](https://www.youtube.com/watch?v=hHW1oY26kxQ){: .btn}
