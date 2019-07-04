@@ -5,7 +5,7 @@ description:        "My personal blog to share my projects and stuffs"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpeg'
-background:         'assets/img/backgroundjpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://contact-tulio.github.io/
