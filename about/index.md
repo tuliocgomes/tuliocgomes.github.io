@@ -16,12 +16,7 @@ comments: false
 * Gestão de Tempo > Santo Google Calendar + Any.Do
 * Criatividade e Inovação > Vai lendo o resto que vai te confirmar tudo
 
-<<<<<<< HEAD
-<center> Para informações mais tradicionais, só visitar meu  <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a></center>
-
-=======
-<center> Para informações mais tradicionais, só visitar meu  <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
->>>>>>> b9a9cdf19507951f91ae3219c1848a4d1ee3c795
+<center> Para informações mais tradicionais, só visitar meu<a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a></center>
 
 
 ##Livros que me inspiram
@@ -30,3 +25,6 @@ comments: false
 
 ## Vida Pessoal
 * Nope.
+
+##Vicio do Momento
+[LOFI](https://www.youtube.com/watch?v=hHW1oY26kxQ){: .btn}
