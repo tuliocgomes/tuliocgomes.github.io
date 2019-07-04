@@ -16,11 +16,7 @@ comments: false
 * Gestão de Tempo > Santo Google Calendar + Any.Do
 * Criatividade e Inovação > Vai lendo o resto que vai te confirmar tudo
 
-<<<<<<< HEAD
 <center> Para informações mais tradicionais, só visitar meu <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
-=======
-<center> Para informações mais tradicionais, só visitar meu<a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
->>>>>>> 70c9cf406a6581d3cadc860b2267dd2a31a6c1f7
 </center>
 
 
