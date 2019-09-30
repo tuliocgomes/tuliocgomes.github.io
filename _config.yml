@@ -8,7 +8,7 @@ logo:               'assets/img/logo.jpeg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://contact-tulio.github.io/
+url:                https://tuliocgomes.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -37,17 +37,17 @@ disqus_shortname:   tuliocgomes
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              contact.tulio@gmail.com
+email:              tcgomes@protonmail.com
 #twitter:            username
 #facebook:           username
-github-url:         contact-tulio
+github-url:         tuliocgomes
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          tuliocgomes
 #xing:              username
 #instagram:          username
 #lastfm:            username
 #tumblr:            username
-medium:            '@contact.tulio'
+medium:            '@tuliocgomes'
 #pinterest:         username
 #foursquare:        username
 #steam:              username
