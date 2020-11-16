@@ -13,7 +13,7 @@ comments: false
 * Ética no trabalho > infosec sem ética = treta
 * Comunicação eficaz > mandar email nao custa nada
 * Atividade repetitiva? > Então automatize
-* Gestão de Tempo > Santo Google Calendar + Any.Do
+* Gestão de Tempo > Santo Google Calendar + Trello
 * Criatividade e Inovação > Vai lendo o resto que vai te confirmar tudo
 
 <center> Para informações mais tradicionais, só visitar meu <a href="https://www.linkedin.com/in/tuliocgomes/">Linkedin</a>
