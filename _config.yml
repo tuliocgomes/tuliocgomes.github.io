@@ -5,7 +5,7 @@ description:        "Do you have Brio?"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpeg'
-background:         'assets/img/background.jpg'
+background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://0xNymerio.github.io
