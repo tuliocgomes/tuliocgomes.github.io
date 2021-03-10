@@ -11,9 +11,9 @@ tag:
 - challenge
 ---
 
-O <https://www.root-me.org/en> possui vários challenges e a intenção deste projeto é: exercitar a prática de ctf/cybersecurity e documentar o método do qual utilizei para resolver tais desafios. É `muito importante documentar o que você faz`, tanto pra você lembrar no futuro, quando para exercitar o seu poder de escrita ao elaborar um post de blog ou um relatório de um trabalho/projeto.
+O [Root-me.org](https://www.root-me.org/en) possui vários challenges e a intenção deste projeto é: exercitar a prática de ctf/cybersecurity e documentar o método do qual utilizei para resolver tais desafios. É `muito importante documentar o que você faz`, tanto pra você lembrar no futuro, quando para exercitar o seu poder de escrita ao elaborar um post de blog ou um relatório de um trabalho/projeto.
 
-ENessa página vou atualizando conforme vou finalizando os challenges, citando eles por categoria com o link para o post específico do desafio, assim fica melhor a organização para leitura.
+Nessa página vou atualizando conforme vou finalizando os challenges, citando eles por categoria com o link para o post específico do desafio, assim fica melhor a organização para leitura.
 
 'Enjoy!'
 
