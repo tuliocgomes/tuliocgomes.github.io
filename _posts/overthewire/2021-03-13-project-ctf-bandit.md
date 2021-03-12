@@ -4,11 +4,7 @@ title: "[CTF]-[OVERTHEWIRE]-[BANDIT]"
 date: 2021-03-10
 excerpt: "Resolvendo o wargame Bandit do overthewire.org"
 project: true
-<<<<<<< HEAD
-feature: https://0xnymerio.github.io/assets/img_posts/ctf/overthewire/bandit-bandit.jpeg
-=======
-feature: https://0xnymerio.github.io/_posts/img_posts/ctf/overthewire/bandit-bandit.jpeg
->>>>>>> 0917e0d4e3c3db8496512d4b581e9238e2b5632f
+feature: https://0xnymerio.github.io/img_posts/ctf/overthewire/bandit-bandit.jpeg
 tag:
 - ctf
 - rootme
