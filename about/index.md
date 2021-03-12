@@ -6,12 +6,12 @@ date: 2021-03-12
 comments: false
 ---
 
-<center>Respiro tecnologia todo santo dia, o melhor suco de limão da região e desde 2017 que tenho me apaixonado por cybersecurity e atualmente me preparando pra certificações de Pentest (DCPT, eJPT e OSCP).
+<center>Respiro tecnologia todo santo dia, o melhor suco de limão da região e desde 2017 que tenho me apaixonado por cybersecurity . Atualmente me preparando pra certificações de Pentest (DCPT, eJPT e OSCP).
 
 <figure>
 	<a href="https://0xnymerio.github.io/about/001-profile_bits.png"><img src="https://0xnymerio.github.io/about/001-profile_bits.png"></a>
 	<figcaption>Entre em contato comigo pelo Telegram: <a href="https://t.me/tcgomes" title="Eu mesmo, nice!">@tcgomes</a>.</figcaption>
-</figure>
+</figure></center>
 
 ## Softskills
 * `Melhor suco de limão`  ------> Só pra reforçar :D
