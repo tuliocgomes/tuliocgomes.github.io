@@ -4,7 +4,7 @@ title: "[CTF]-[ROOT-ME]-[CHALLENGES]"
 date: 2021-03-10
 excerpt: "Resolvendo os desafios do root-me.org"
 project: true
-feature: https://0xnymerio.github.io/img_posts/ctf/rootme/root-me-logo.png
+feature: https://0xnymerio.github.io/img_posts/_posts/img_posts/ctf/rootme/root-me-logo.png
 tag:
 - ctf
 - rootme
