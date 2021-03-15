@@ -12,7 +12,7 @@ tags: [ctf, rootme, network, challenge]
 
 ## FTP - authentication
 
-O desafio nos fornece um **ch1.pcap** e temos que descobrir a senha utilizada pelo usuário.
+O desafio nos fornece um arquivo **ch1.pcap** e temos que descobrir a senha utilizada pelo usuário.
 
 ![Wireshark - ch1.pcap](/img_posts/ctf/rootme/network/ftp-auth-1.png)
 

@@ -5,3 +5,7 @@ date: 2021-03-12
 excerpt: "Challenge Telnet Authentication - Root-me.org"
 tags: [ctf, rootme, network, challenge]
 ---
+
+## Enunciado
+
+> Find the user password in this TELNET session capture.
