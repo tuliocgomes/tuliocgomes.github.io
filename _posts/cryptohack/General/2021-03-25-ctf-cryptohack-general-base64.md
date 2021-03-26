@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[CTF]-[CRYPTOHACK]-[CHALLENGES]-[GENERAL] - Base64 "
-date: 2021-03-12
+date: 2021-03-25
 excerpt: "Challenge Base64 - cryptohack.org"
 tags: [ctf, cryptohack, challenge, general]
 ---

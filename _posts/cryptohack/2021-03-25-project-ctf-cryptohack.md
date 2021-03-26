@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[CTF]-[CRYPTOHACK]-[GENERAL]"
-date: 2021-03-10
+date: 2021-03-25
 excerpt: "Resolvendo os desafios do cryptohack.org"
 project: true
 feature: https://0xnymerio.github.io/img_posts/ctf/cryptohack/cryptohack-logo.png
